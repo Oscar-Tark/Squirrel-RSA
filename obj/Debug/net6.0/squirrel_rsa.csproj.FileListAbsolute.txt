@@ -9,3 +9,15 @@
 /home/ferret/GIT/Squirrel-RSA/obj/Debug/net6.0/squirrel_rsa.dll
 /home/ferret/GIT/Squirrel-RSA/obj/Debug/net6.0/ref/squirrel_rsa.dll
 /home/ferret/GIT/Squirrel-RSA/obj/Debug/net6.0/squirrel_rsa.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/bin/Debug/net6.0/squirrel_rsa.deps.json
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/bin/Debug/net6.0/squirrel_rsa.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/bin/Debug/net6.0/squirrel_rsa.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/obj/Debug/net6.0/squirrel_rsa.csproj.AssemblyReference.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/obj/Debug/net6.0/squirrel_rsa.GeneratedMSBuildEditorConfig.editorconfig
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/obj/Debug/net6.0/squirrel_rsa.AssemblyInfoInputs.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/obj/Debug/net6.0/squirrel_rsa.AssemblyInfo.cs
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/obj/Debug/net6.0/squirrel_rsa.csproj.CoreCompileInputs.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/obj/Debug/net6.0/squirrel_rsa.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/obj/Debug/net6.0/ref/squirrel_rsa.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/obj/Debug/net6.0/squirrel_rsa.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-RSA/obj/Debug/net6.0/refint/squirrel_rsa.dll
