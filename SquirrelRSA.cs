@@ -1,9 +1,6 @@
-﻿using System;
-using System.Security;
-using System.IO;
+﻿using System.Security;
 using Cauldron.Cryptography;
 using System.Security.Cryptography;
-using System.Diagnostics;
 
 //A library to load and create RSA keys
 namespace Scorpion_RSA
